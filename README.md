@@ -21,7 +21,12 @@ There is no root password required on connecting.
 
 This method doesn't write anything to the camera's flash memory and will be disabled by removing the SD Card.
 
+**Update: 05/08/2021** 
+
+RTS3903N RTSPServer available here: [https://github.com/cjj25/Yi-RTS3903N-RTSPServer/](https://github.com/cjj25/Yi-RTS3903N-RTSPServer/)
+
 I've used this method to help me build an RTSP service for the Realtek based (RTS3903N) which I'll be releasing in early alpha stage soon.
+
 
 
 **Important: Ensure all .sh scripts and executable (chmod +x script.sh)**
