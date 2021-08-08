@@ -1,4 +1,10 @@
-# Enable Telnet and access root on any Yi camera device
+# Enable Telnet and access root on ~some~ Yi camera device
+
+**Update: 08/08/2021**
+> If this method doesn't work for you, try this method: https://github.com/rage2dev/YiOutdoor by [rage2dev](https://github.com/rage2dev) 
+> 
+> Thanks [fkoteam](https://github.com/fkoteam) for [reporting and sharing something](https://github.com/cjj25/yi-hack-telnet-root/issues/1) that worked for you.
+
 **Important:** You'll **at least** 2GB Micro SD card formatted with a FAT32 partition.
 The device checks the size of the SD card and won't mount when it's detected too small in size.
 
